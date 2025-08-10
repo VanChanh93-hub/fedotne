@@ -145,7 +145,7 @@ async function getProjects() {
 }
 
 function goToEdit() {
-  window.location.href = "http://localhost:5173/edit";
+  window.location.href = "https://fedotne-jbzn.vercel.app/edit";
 }
 
 onMounted(() => {
