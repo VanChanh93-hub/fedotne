@@ -147,7 +147,6 @@ async function getProjects() {
 function goToEdit() {
   window.location.href = "https://fedotne-jbzn.vercel.app/edit";
 }
-
 onMounted(() => {
   getpersonalInfo()
   getProLanguages()
